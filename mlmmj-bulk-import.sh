@@ -1,3 +1,5 @@
+#!/bin/bash
+
 INPUT=$1
 LIST=$2
 
