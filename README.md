@@ -3,7 +3,7 @@ mlmmj-utils
 
 feel like tracking useful mlmmj actions (bulk subscribe, bulk unsubscribe, etc).
 
-## mlmmj-bulk-import
+## bulk-import
 
 ```
 ./mlmmj-bulk-import.sh <file with addresses> /var/spool/mlmmj/<list>
