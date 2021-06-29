@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -e
+
 INPUT=$1
 LIST=$2
 
